@@ -1,0 +1,4 @@
+rootProject.name = "MVVM"
+include ':app'
+include ':data'
+include ':domain'
